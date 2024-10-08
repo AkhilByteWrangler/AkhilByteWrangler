@@ -1,6 +1,6 @@
 # AkhilByteWrangler ✨
 
-Welcome to **AkhilByteWrangler**, the ✨ special ✨ repository that brings my GitHub profile to life!
+Welcome to **AkhilByteWrangler**!
 
 ## About Me
 
