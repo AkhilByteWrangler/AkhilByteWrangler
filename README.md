@@ -4,7 +4,7 @@ Welcome to **AkhilByteWrangler**!
 
 ## About Me
 
-I'm **Akhil Chintalapati**, a passionate Machine Learning and Data Science enthusiast currently pursuing my Master's in Artificial Intelligence at **Duke University** 🏛️ (Class of '26). Before this, I earned my Bachelor's in Computer Science with Data Science from **Vellore Institute of Technology** 🎓. My journey so far has been about transforming data into actionable insights, building AI solutions, and making complex systems more efficient.
+I'm **Akhil**, a passionate Machine Learning and Data Science enthusiast currently pursuing my Master's at **Duke University** 🏛️ (Class of '26). Before this, I earned my Bachelor's in Computer Science with Data Science from **Vellore Institute of Technology** 🎓. My journey so far has been about transforming data into actionable insights, building AI solutions, and making complex systems more efficient.
 
 ### What Makes Me Tick?
 
@@ -65,6 +65,5 @@ I’m always open to chatting about AI, data science, or anything tech-related. 
 
 - [LinkedIn](https://linkedin.com/in/akhil-c-/)
 - [GitHub](https://github.com/AkhilByteWrangler)
-- Email: akhil.chintalapati@duke.edu
 
 Feel free to explore my repositories, clone something interesting, or just say hi! Let’s build something awesome together. 🚀
